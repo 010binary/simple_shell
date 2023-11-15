@@ -1,4 +1,5 @@
-# Contributors to this Repository
+# Contributors to the Repository
 
-- Alpha Chukwuemeka <augustine@gmail.com>
-- Mesfin Melese <@gmail.com>
+- [Alpha Chukwuemeka](mailto:augustine@gmail.com)
+- [Mesfin Melese](@gmail.com)
+
